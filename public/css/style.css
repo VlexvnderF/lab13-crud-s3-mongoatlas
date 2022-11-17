@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+}
+
+.input {
+    color: white;
+}
+
+.tabla{
+    background-color: white;
+}
+
+.laptop {
+    float: right;
+    position: absolute;
+    right: 270px;
+    top: 55px;
+}
